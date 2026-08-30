@@ -159,6 +159,9 @@ ENV/
 env.bak/
 venv.bak/
 
+#database too
+alembic/
+
 # Spyder project settings
 .spyderproject
 .spyproject
